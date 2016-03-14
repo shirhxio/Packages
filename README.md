@@ -8,8 +8,8 @@
   ビームの主軸部分とそれを追従する部分がある。ともに回転してるので、主軸の数を増やしてみるのも面白い。  
   軸からの距離なども変えられます。  
 
-* handcursor.unitypackage  
-  上下運動の最上部で指先の指す位置はtransform.position(初期は)であり、配置してる指先の位置でないことに注意。  
+* handcursor22.unitypackage  
+  上下運動の最上部で指先の指す位置をtransform.positionとSceneビューでの見た目を一致させました。  
   位置を変えるときはSetPos(float x, float y)を使うこと。  
   上下運動の幅や周期は変えられます。  
   一応、絵も自分で書いたものなのでご安心を。  
